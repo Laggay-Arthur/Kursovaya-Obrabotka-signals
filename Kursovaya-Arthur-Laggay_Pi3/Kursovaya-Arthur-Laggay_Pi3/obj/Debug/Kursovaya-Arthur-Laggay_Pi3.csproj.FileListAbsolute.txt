@@ -1,0 +1,10 @@
+C:\Users\Артур\source\repos\Kursovaya-Arthur-Laggay_Pi3\Kursovaya-Arthur-Laggay_Pi3\obj\Debug\Kursovaya-Arthur-Laggay_Pi3.csprojAssemblyReference.cache
+C:\Users\Артур\source\repos\Kursovaya-Arthur-Laggay_Pi3\Kursovaya-Arthur-Laggay_Pi3\obj\Debug\Kursovaya_Arthur_Laggay_Pi3.Form1.resources
+C:\Users\Артур\source\repos\Kursovaya-Arthur-Laggay_Pi3\Kursovaya-Arthur-Laggay_Pi3\obj\Debug\Kursovaya_Arthur_Laggay_Pi3.Properties.Resources.resources
+C:\Users\Артур\source\repos\Kursovaya-Arthur-Laggay_Pi3\Kursovaya-Arthur-Laggay_Pi3\obj\Debug\Kursovaya-Arthur-Laggay_Pi3.csproj.GenerateResource.cache
+C:\Users\Артур\source\repos\Kursovaya-Arthur-Laggay_Pi3\Kursovaya-Arthur-Laggay_Pi3\obj\Debug\Kursovaya-Arthur-Laggay_Pi3.csproj.CoreCompileInputs.cache
+C:\Users\Артур\source\repos\Kursovaya-Arthur-Laggay_Pi3\Kursovaya-Arthur-Laggay_Pi3\bin\Debug\Kursovaya-Arthur-Laggay_Pi3.exe.config
+C:\Users\Артур\source\repos\Kursovaya-Arthur-Laggay_Pi3\Kursovaya-Arthur-Laggay_Pi3\bin\Debug\Kursovaya-Arthur-Laggay_Pi3.exe
+C:\Users\Артур\source\repos\Kursovaya-Arthur-Laggay_Pi3\Kursovaya-Arthur-Laggay_Pi3\bin\Debug\Kursovaya-Arthur-Laggay_Pi3.pdb
+C:\Users\Артур\source\repos\Kursovaya-Arthur-Laggay_Pi3\Kursovaya-Arthur-Laggay_Pi3\obj\Debug\Kursovaya-Arthur-Laggay_Pi3.exe
+C:\Users\Артур\source\repos\Kursovaya-Arthur-Laggay_Pi3\Kursovaya-Arthur-Laggay_Pi3\obj\Debug\Kursovaya-Arthur-Laggay_Pi3.pdb
